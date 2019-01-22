@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Денис Кудряшов](https://up.htmlacademy.ru/htmlcss/24/user/977581).
-* Наставник: `Светлана Корякина`(https://htmlacademy.ru/profile/id477401).
+* Наставник: [Светлана Корякина](https://htmlacademy.ru/profile/id477401).
 
 ---
 
